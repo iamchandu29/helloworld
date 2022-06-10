@@ -11,7 +11,7 @@ body {
 
 .header {
   overflow: hidden;
-  background-color: #ffff00;
+  background-color: #FFBF00;
   padding: 20px 10px;
 }
 
@@ -66,6 +66,7 @@ body {
     <a class="active" href="#home">Home</a>
     <a href="#contact">Contact</a>
     <a href="#about">About</a>
+    <a href="#careers">Careers</a>
   </div>
 </div>
 
