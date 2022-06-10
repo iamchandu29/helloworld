@@ -1,11 +1,10 @@
-<!DOCTYPE html>
 <html class="html" lang="en-US">
 <head>
 	<meta charset="UTF-8">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 
 	<script>var et_site_url='https://forgenixone.com';var et_post_id='15';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
-</script><title>Forgenix Services and Solutions</title>
+</script><title>Hello world Hyderabad</title>
 <meta name='robots' content='max-image-preview:large' />
 <meta name="viewport" content="width=device-width, initial-scale=1"><link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
