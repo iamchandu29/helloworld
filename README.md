@@ -10,7 +10,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
  body{
-  backgroung-color:black;
+  background-color:black;
   }
 
 .header {
