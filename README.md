@@ -10,6 +10,9 @@ body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
+  {
+  backgroung-color:blue;
+  }
 
 .header {
   overflow: hidden;
