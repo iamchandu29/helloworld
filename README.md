@@ -4,7 +4,7 @@
 <style>
 * {box-sizing: border-box;}
 <title>My Page Title</title>
-  <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+  <link rel="icon" type="image/x-icon" href="[/images/favicon.ico](https://i.postimg.cc/PxL2wPKH/014-D7603-182-E-4-EED-98-A0-96-AD94038220.jpg)">
 body { 
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
