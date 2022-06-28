@@ -10,7 +10,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
  body{
-  background-color:black;
+  Background-image:url(https://i.postimg.cc/PxL2wPKH/014-D7603-182-E-4-EED-98-A0-96-AD94038220.jpg);
   }
 
 .header {
@@ -36,7 +36,7 @@ body {
 }
 
 .header a:hover {
-  background-color: #ddd;
+  background-color: #fff;
   color: black;
 }
 
@@ -66,7 +66,7 @@ body {
 
 <div
 class="header">
-  <a href="#default" class="logo">CompanyLogo</a>
+  <a href="#default" class="logo">Chandrashekhar</a>
   <div class="header-right">
     <a class="active" href="#home">Home</a>
     <a href="#contact">Contact</a>
