@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -61,7 +62,8 @@ body {
 </head>
 <body>
 
-<div class="header">
+<div ![014D7603-182E-4EED-98A0-96AD94038220](https://user-images.githubusercontent.com/107079597/176279363-f6db42ef-4be3-40fa-b200-e7168e4943d4.jpg)
+class="header">
   <a href="#default" class="logo">CompanyLogo</a>
   <div class="header-right">
     <a class="active" href="#home">Home</a>
