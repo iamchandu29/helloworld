@@ -3,7 +3,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {box-sizing: border-box;}
-
+<title>My Page Title</title>
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
 body { 
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
