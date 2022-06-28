@@ -10,8 +10,8 @@ body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
-  {
-  backgroung-color:blue;
+ body{
+  backgroung-color:tomato;
   }
 
 .header {
